@@ -15,7 +15,7 @@ const Navbar = () => {
           <span className="text-2xl font-bold text-blue-600">LOGO</span>
         </Link>
 
-        <div className="ml-8 mr-4 hidden flex-1 sm:block">
+        <div className="ml-8 mr-4 hidden flex-1 sm:block border-[rgba(89,103,128,1)]">
           <Search />
         </div>
 
